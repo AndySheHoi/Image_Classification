@@ -1,3 +1,7 @@
+# Simple_digit_classifier + Demo
+It is a combination of the transfer learning application which based on Google Colab.
+To test it, please remember to change the save/load path in both files.
+
 # Digits_Classification
 Image Classification with MNIST Handwritten Digit Classification Dataset
 
