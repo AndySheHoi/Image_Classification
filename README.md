@@ -1,4 +1,4 @@
-# Digits_Classification_Advanced
+# Digits_Classification
 Image Classification with MNIST Handwritten Digit Classification Dataset
 
 ![alt text](https://adeshpande3.github.io/assets/Cover.png)
